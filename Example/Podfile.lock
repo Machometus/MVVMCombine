@@ -1,0 +1,16 @@
+PODS:
+  - MVVMCombine (0.1.0)
+
+DEPENDENCIES:
+  - MVVMCombine (from `../`)
+
+EXTERNAL SOURCES:
+  MVVMCombine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MVVMCombine: b6882945a06e284c15b125483689ead89b2da0b4
+
+PODFILE CHECKSUM: 39afdabf34a4579f13674d12e29b380e57e6f49c
+
+COCOAPODS: 1.8.4

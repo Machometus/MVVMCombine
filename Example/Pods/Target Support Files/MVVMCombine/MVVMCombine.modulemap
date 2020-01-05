@@ -1,0 +1,6 @@
+framework module MVVMCombine {
+  umbrella header "MVVMCombine-umbrella.h"
+
+  export *
+  module * { export * }
+}

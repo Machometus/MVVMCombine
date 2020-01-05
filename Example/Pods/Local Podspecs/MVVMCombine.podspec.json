@@ -1,0 +1,22 @@
+{
+  "name": "MVVMCombine",
+  "version": "0.1.0",
+  "summary": "A short description of MVVMCombine.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mohamed Salem/MVVMCombine",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mohamed Salem": "mos@next-munich.com"
+  },
+  "source": {
+    "git": "https://github.com/Mohamed Salem/MVVMCombine.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MVVMCombine/Classes/**/*"
+}

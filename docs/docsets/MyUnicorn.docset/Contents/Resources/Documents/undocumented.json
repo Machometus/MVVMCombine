@@ -1,0 +1,26 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/machometus/Desktop/Work/Projects/MvvmCombineAlpha/SwiftDIDemo/SwiftDIDemo/MvvmCombine/MvxKit/View/Modifier/MwxBodyModifier.swift",
+      "line": 86,
+      "symbol": "MwxBody.bind(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/machometus/Desktop/Work/Projects/MvvmCombineAlpha/SwiftDIDemo/SwiftDIDemo/MvvmCombine/MvxKit/View/Modifier/MwxBodyModifier.swift",
+      "line": 93,
+      "symbol": "MwxNavigationBody.bind(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/machometus/Desktop/Work/Projects/MvvmCombineAlpha/SwiftDIDemo/SwiftDIDemo/MvvmCombine/MvxKit/View/Modifier/MwxBodyModifier.swift",
+      "line": 100,
+      "symbol": "MwxTabBody.bind(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/machometus/Desktop/Work/Projects/MvvmCombineAlpha/SwiftDIDemo"
+}
