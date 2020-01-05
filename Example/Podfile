@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MVVMCombine_Example' do
+  pod 'MVVMCombine', :path => '../'
+
+  target 'MVVMCombine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
